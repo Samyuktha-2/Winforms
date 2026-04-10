@@ -1,0 +1,12 @@
+D:\WINFORMS\HardCode\HardCode\bin\Debug\HardCode.exe.config
+D:\WINFORMS\HardCode\HardCode\bin\Debug\HardCode.exe
+D:\WINFORMS\HardCode\HardCode\bin\Debug\HardCode.pdb
+D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.csprojAssemblyReference.cache
+D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.Form2.resources
+D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.Properties.Resources.resources
+D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.csproj.GenerateResource.cache
+D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.csproj.CoreCompileInputs.cache
+D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.exe
+D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.pdb
+D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.Form1.resources
+D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.FeedBackForm.resources

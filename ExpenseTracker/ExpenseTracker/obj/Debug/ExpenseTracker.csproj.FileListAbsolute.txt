@@ -1,0 +1,15 @@
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe.config
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.pdb
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.DashboardUserControl.resources
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Form1.resources
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.exe
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.ExpenseUserControl.resources
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.AddExpenseUserControl.resources
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.AddIncomeUserControl.resources
+C:\Users\OptiCheck\Desktop\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.LoginUserControl.resources

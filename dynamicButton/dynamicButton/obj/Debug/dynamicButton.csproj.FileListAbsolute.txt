@@ -1,0 +1,10 @@
+D:\WINFORMS\dynamicButton\dynamicButton\bin\Debug\dynamicButton.exe.config
+D:\WINFORMS\dynamicButton\dynamicButton\bin\Debug\dynamicButton.exe
+D:\WINFORMS\dynamicButton\dynamicButton\bin\Debug\dynamicButton.pdb
+D:\WINFORMS\dynamicButton\dynamicButton\obj\Debug\dynamicButton.csprojAssemblyReference.cache
+D:\WINFORMS\dynamicButton\dynamicButton\obj\Debug\dynamicButton.Form1.resources
+D:\WINFORMS\dynamicButton\dynamicButton\obj\Debug\dynamicButton.Properties.Resources.resources
+D:\WINFORMS\dynamicButton\dynamicButton\obj\Debug\dynamicButton.csproj.GenerateResource.cache
+D:\WINFORMS\dynamicButton\dynamicButton\obj\Debug\dynamicButton.csproj.CoreCompileInputs.cache
+D:\WINFORMS\dynamicButton\dynamicButton\obj\Debug\dynamicButton.exe
+D:\WINFORMS\dynamicButton\dynamicButton\obj\Debug\dynamicButton.pdb

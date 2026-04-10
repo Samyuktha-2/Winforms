@@ -1,0 +1,13 @@
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\bin\Debug\Expense Track.exe.config
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\bin\Debug\Expense Track.exe
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\bin\Debug\Expense Track.pdb
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\obj\Debug\Expense_Track.Form1.resources
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\obj\Debug\Expense_Track.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\obj\Debug\Expense Track.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\obj\Debug\Expense Track.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\obj\Debug\Expense Track.exe
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\obj\Debug\Expense Track.pdb
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\obj\Debug\Expense_Track.CustomAdd.resources
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\obj\Debug\Expense_Track.CustomFilter.resources
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\obj\Debug\Expense_Track.CustomPieChart.resources
+C:\Users\OptiCheck\Desktop\Expense Track\Expense Track\obj\Debug\Expense Track.csprojAssemblyReference.cache

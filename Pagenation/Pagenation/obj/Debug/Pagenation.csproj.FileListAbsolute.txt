@@ -1,0 +1,11 @@
+C:\Users\OptiCheck\Desktop\Pagenation\Pagenation\obj\Debug\Pagenation.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\Pagenation\Pagenation\obj\Debug\Pagenation.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\Pagenation\Pagenation\obj\Debug\Pagenation.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\Pagenation\Pagenation\obj\Debug\Pagenation.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\Pagenation\Pagenation\bin\Debug\Pagenation.exe.config
+C:\Users\OptiCheck\Desktop\Pagenation\Pagenation\bin\Debug\Pagenation.exe
+C:\Users\OptiCheck\Desktop\Pagenation\Pagenation\bin\Debug\Pagenation.pdb
+C:\Users\OptiCheck\Desktop\Pagenation\Pagenation\obj\Debug\Pagenation.exe
+C:\Users\OptiCheck\Desktop\Pagenation\Pagenation\obj\Debug\Pagenation.pdb
+C:\Users\OptiCheck\Desktop\Pagenation\Pagenation\obj\Debug\Pagenation.PagenationController.resources
+C:\Users\OptiCheck\Desktop\Pagenation\Pagenation\obj\Debug\Pagenation.Pagenation.resources

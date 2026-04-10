@@ -1,0 +1,11 @@
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\castle\bin\Debug\castle.exe.config
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\castle\bin\Debug\castle.exe
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\castle\bin\Debug\castle.pdb
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\castle\obj\Debug\castle.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\castle\obj\Debug\castle.Form1.resources
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\castle\obj\Debug\castle.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\castle\obj\Debug\castle.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\castle\obj\Debug\castle.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\castle\obj\Debug\castle.exe
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\castle\obj\Debug\castle.pdb
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\castle\obj\Debug\castle.Fort.resources

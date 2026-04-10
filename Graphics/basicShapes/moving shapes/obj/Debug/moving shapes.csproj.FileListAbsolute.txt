@@ -1,0 +1,9 @@
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\moving shapes\bin\Debug\moving shapes.exe.config
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\moving shapes\bin\Debug\moving shapes.exe
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\moving shapes\bin\Debug\moving shapes.pdb
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\moving shapes\obj\Debug\moving shapes.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\moving shapes\obj\Debug\moving_shapes.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\moving shapes\obj\Debug\moving shapes.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\moving shapes\obj\Debug\moving shapes.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\moving shapes\obj\Debug\moving shapes.exe
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\moving shapes\obj\Debug\moving shapes.pdb

@@ -1,0 +1,11 @@
+C:\Users\OptiCheck\Desktop\MaterialSpinTextbox\MaterialSpinTextbox\bin\Debug\MaterialSpinTextbox.exe.config
+C:\Users\OptiCheck\Desktop\MaterialSpinTextbox\MaterialSpinTextbox\bin\Debug\MaterialSpinTextbox.exe
+C:\Users\OptiCheck\Desktop\MaterialSpinTextbox\MaterialSpinTextbox\bin\Debug\MaterialSpinTextbox.pdb
+C:\Users\OptiCheck\Desktop\MaterialSpinTextbox\MaterialSpinTextbox\obj\Debug\MaterialSpinTextbox.Form1.resources
+C:\Users\OptiCheck\Desktop\MaterialSpinTextbox\MaterialSpinTextbox\obj\Debug\MaterialSpinTextbox.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\MaterialSpinTextbox\MaterialSpinTextbox\obj\Debug\MaterialSpinTextbox.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\MaterialSpinTextbox\MaterialSpinTextbox\obj\Debug\MaterialSpinTextbox.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\MaterialSpinTextbox\MaterialSpinTextbox\obj\Debug\MaterialSpinTextbox.exe
+C:\Users\OptiCheck\Desktop\MaterialSpinTextbox\MaterialSpinTextbox\obj\Debug\MaterialSpinTextbox.pdb
+C:\Users\OptiCheck\Desktop\MaterialSpinTextbox\MaterialSpinTextbox\obj\Debug\MaterialSpinTextbox.MaterialSpinControl.resources
+C:\Users\OptiCheck\Desktop\MaterialSpinTextbox\MaterialSpinTextbox\obj\Debug\MaterialSpinTextbox.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\OptiCheck\Desktop\ToggleWidget\ToggleWidget\bin\Debug\ToggleWidget.exe.config
+C:\Users\OptiCheck\Desktop\ToggleWidget\ToggleWidget\bin\Debug\ToggleWidget.exe
+C:\Users\OptiCheck\Desktop\ToggleWidget\ToggleWidget\bin\Debug\ToggleWidget.pdb
+C:\Users\OptiCheck\Desktop\ToggleWidget\ToggleWidget\obj\Debug\ToggleWidget.Form1.resources
+C:\Users\OptiCheck\Desktop\ToggleWidget\ToggleWidget\obj\Debug\ToggleWidget.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\ToggleWidget\ToggleWidget\obj\Debug\ToggleWidget.ToggleControl.resources
+C:\Users\OptiCheck\Desktop\ToggleWidget\ToggleWidget\obj\Debug\ToggleWidget.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\ToggleWidget\ToggleWidget\obj\Debug\ToggleWidget.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\ToggleWidget\ToggleWidget\obj\Debug\ToggleWidget.exe
+C:\Users\OptiCheck\Desktop\ToggleWidget\ToggleWidget\obj\Debug\ToggleWidget.pdb
+C:\Users\OptiCheck\Desktop\ToggleWidget\ToggleWidget\obj\Debug\ToggleWidget.csprojAssemblyReference.cache

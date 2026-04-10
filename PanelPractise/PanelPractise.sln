@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.36617.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanelPractise", "PanelPractise\PanelPractise.csproj", "{760CA644-1DB2-4754-88E0-E1F52F4A7D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPanelAdding", "DynamicPanelAdding\DynamicPanelAdding.csproj", "{86C0F9AF-7CCD-4BE9-959E-129568B9E52E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RatioPanel", "RatioPanel\RatioPanel.csproj", "{0C7013FC-1111-4B74-8437-2FFE3B7DDA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{760CA644-1DB2-4754-88E0-E1F52F4A7D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760CA644-1DB2-4754-88E0-E1F52F4A7D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760CA644-1DB2-4754-88E0-E1F52F4A7D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760CA644-1DB2-4754-88E0-E1F52F4A7D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C0F9AF-7CCD-4BE9-959E-129568B9E52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C0F9AF-7CCD-4BE9-959E-129568B9E52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C0F9AF-7CCD-4BE9-959E-129568B9E52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C0F9AF-7CCD-4BE9-959E-129568B9E52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7013FC-1111-4B74-8437-2FFE3B7DDA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7013FC-1111-4B74-8437-2FFE3B7DDA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7013FC-1111-4B74-8437-2FFE3B7DDA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7013FC-1111-4B74-8437-2FFE3B7DDA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5993713A-18A3-4621-B774-71CF209CA45B}
+	EndGlobalSection
+EndGlobal

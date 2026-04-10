@@ -1,0 +1,11 @@
+C:\Users\OptiCheck\Desktop\Logo\Logo\bin\Debug\Logo.exe.config
+C:\Users\OptiCheck\Desktop\Logo\Logo\bin\Debug\Logo.exe
+C:\Users\OptiCheck\Desktop\Logo\Logo\bin\Debug\Logo.pdb
+C:\Users\OptiCheck\Desktop\Logo\Logo\obj\Debug\Logo.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\Logo\Logo\obj\Debug\Logo.Form1.resources
+C:\Users\OptiCheck\Desktop\Logo\Logo\obj\Debug\Logo.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\Logo\Logo\obj\Debug\Logo.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\Logo\Logo\obj\Debug\Logo.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\Logo\Logo\obj\Debug\Logo.exe
+C:\Users\OptiCheck\Desktop\Logo\Logo\obj\Debug\Logo.pdb
+C:\Users\OptiCheck\Desktop\Logo\Logo\obj\Debug\Logo.LogoControl.resources

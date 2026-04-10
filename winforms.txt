@@ -1,0 +1,6 @@
+day 1
+winforms overview
+     -> console v/s gui based
+     -> program.cs
+     -> forms
+     -> advantage and disadvantage

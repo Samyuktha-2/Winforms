@@ -1,0 +1,10 @@
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateTriangle\bin\Debug\generateTriangle.exe.config
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateTriangle\bin\Debug\generateTriangle.exe
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateTriangle\bin\Debug\generateTriangle.pdb
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateTriangle\obj\Debug\generateTriangle.Form1.resources
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateTriangle\obj\Debug\generateTriangle.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateTriangle\obj\Debug\generateTriangle.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateTriangle\obj\Debug\generateTriangle.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateTriangle\obj\Debug\generateTriangle.exe
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateTriangle\obj\Debug\generateTriangle.pdb
+C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateTriangle\obj\Debug\generateTriangle.csprojAssemblyReference.cache

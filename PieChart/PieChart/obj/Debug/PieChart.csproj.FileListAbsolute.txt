@@ -1,0 +1,10 @@
+C:\Users\OptiCheck\Desktop\PieChart\PieChart\bin\Debug\PieChart.exe.config
+C:\Users\OptiCheck\Desktop\PieChart\PieChart\bin\Debug\PieChart.exe
+C:\Users\OptiCheck\Desktop\PieChart\PieChart\bin\Debug\PieChart.pdb
+C:\Users\OptiCheck\Desktop\PieChart\PieChart\obj\Debug\PieChart.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\PieChart\PieChart\obj\Debug\PieChart.Form1.resources
+C:\Users\OptiCheck\Desktop\PieChart\PieChart\obj\Debug\PieChart.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\PieChart\PieChart\obj\Debug\PieChart.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\PieChart\PieChart\obj\Debug\PieChart.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\PieChart\PieChart\obj\Debug\PieChart.exe
+C:\Users\OptiCheck\Desktop\PieChart\PieChart\obj\Debug\PieChart.pdb

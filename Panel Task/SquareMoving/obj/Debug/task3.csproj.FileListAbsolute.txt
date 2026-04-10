@@ -1,0 +1,11 @@
+C:\Users\OptiCheck\Desktop\task\task3\bin\Debug\task3.exe.config
+C:\Users\OptiCheck\Desktop\task\task3\bin\Debug\task3.exe
+C:\Users\OptiCheck\Desktop\task\task3\bin\Debug\task3.pdb
+C:\Users\OptiCheck\Desktop\task\task3\obj\Debug\task3.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\task\task3\obj\Debug\task3.Form1.resources
+C:\Users\OptiCheck\Desktop\task\task3\obj\Debug\task3.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\task\task3\obj\Debug\task3.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\task\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\task\task3\obj\Debug\task3.exe
+C:\Users\OptiCheck\Desktop\task\task3\obj\Debug\task3.pdb
+C:\Users\OptiCheck\Desktop\task\task3\obj\Debug\task3.Form2.resources

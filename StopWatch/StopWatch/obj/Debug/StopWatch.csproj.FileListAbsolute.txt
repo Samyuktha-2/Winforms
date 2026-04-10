@@ -1,0 +1,9 @@
+C:\Users\OptiCheck\Desktop\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\OptiCheck\Desktop\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\OptiCheck\Desktop\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\OptiCheck\Desktop\StopWatch\StopWatch\obj\Debug\StopWatch.Form1.resources
+C:\Users\OptiCheck\Desktop\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\OptiCheck\Desktop\StopWatch\StopWatch\obj\Debug\StopWatch.pdb

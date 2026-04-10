@@ -1,0 +1,11 @@
+C:\Users\OptiCheck\Desktop\Notification\Notification\obj\Debug\Notification.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\Notification\Notification\obj\Debug\Notification.Form1.resources
+C:\Users\OptiCheck\Desktop\Notification\Notification\obj\Debug\Notification.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\Notification\Notification\obj\Debug\Notification.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\Notification\Notification\obj\Debug\Notification.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\Notification\Notification\bin\Debug\Notification.exe.config
+C:\Users\OptiCheck\Desktop\Notification\Notification\bin\Debug\Notification.exe
+C:\Users\OptiCheck\Desktop\Notification\Notification\bin\Debug\Notification.pdb
+C:\Users\OptiCheck\Desktop\Notification\Notification\obj\Debug\Notification.exe
+C:\Users\OptiCheck\Desktop\Notification\Notification\obj\Debug\Notification.pdb
+C:\Users\OptiCheck\Desktop\Notification\Notification\obj\Debug\Notification.DrawBell.resources

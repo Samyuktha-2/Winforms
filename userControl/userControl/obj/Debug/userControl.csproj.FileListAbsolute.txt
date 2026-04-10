@@ -1,0 +1,10 @@
+D:\WINFORMS\userControl\userControl\bin\Debug\userControl.exe.config
+D:\WINFORMS\userControl\userControl\bin\Debug\userControl.exe
+D:\WINFORMS\userControl\userControl\bin\Debug\userControl.pdb
+D:\WINFORMS\userControl\userControl\obj\Debug\userControl.loginPanel.resources
+D:\WINFORMS\userControl\userControl\obj\Debug\userControl.Properties.Resources.resources
+D:\WINFORMS\userControl\userControl\obj\Debug\userControl.csproj.GenerateResource.cache
+D:\WINFORMS\userControl\userControl\obj\Debug\userControl.csproj.CoreCompileInputs.cache
+D:\WINFORMS\userControl\userControl\obj\Debug\userControl.exe
+D:\WINFORMS\userControl\userControl\obj\Debug\userControl.pdb
+D:\WINFORMS\userControl\userControl\obj\Debug\userControl.Form1.resources

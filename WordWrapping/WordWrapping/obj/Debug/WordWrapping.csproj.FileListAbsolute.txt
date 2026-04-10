@@ -1,0 +1,10 @@
+C:\Users\OptiCheck\Desktop\WordWrapping\WordWrapping\bin\Debug\WordWrapping.exe.config
+C:\Users\OptiCheck\Desktop\WordWrapping\WordWrapping\bin\Debug\WordWrapping.exe
+C:\Users\OptiCheck\Desktop\WordWrapping\WordWrapping\bin\Debug\WordWrapping.pdb
+C:\Users\OptiCheck\Desktop\WordWrapping\WordWrapping\obj\Debug\WordWrapping.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\WordWrapping\WordWrapping\obj\Debug\WordWrapping.Form1.resources
+C:\Users\OptiCheck\Desktop\WordWrapping\WordWrapping\obj\Debug\WordWrapping.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\WordWrapping\WordWrapping\obj\Debug\WordWrapping.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\WordWrapping\WordWrapping\obj\Debug\WordWrapping.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\WordWrapping\WordWrapping\obj\Debug\WordWrapping.exe
+C:\Users\OptiCheck\Desktop\WordWrapping\WordWrapping\obj\Debug\WordWrapping.pdb

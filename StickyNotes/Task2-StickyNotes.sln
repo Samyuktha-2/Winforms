@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.36324.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2-StickyNotes", "Task2-StickyNotes\Task2-StickyNotes.csproj", "{EC2D3452-B7EB-4965-873D-F9A4BF072DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2D3452-B7EB-4965-873D-F9A4BF072DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2D3452-B7EB-4965-873D-F9A4BF072DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2D3452-B7EB-4965-873D-F9A4BF072DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2D3452-B7EB-4965-873D-F9A4BF072DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C7925C6-8434-4040-BF09-28B0093A372A}
+	EndGlobalSection
+EndGlobal

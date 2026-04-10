@@ -1,0 +1,13 @@
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\bin\Debug\Task2-StickyNotes.exe.config
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\bin\Debug\Task2-StickyNotes.exe
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\bin\Debug\Task2-StickyNotes.pdb
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\obj\Debug\Task2-StickyNotes.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\obj\Debug\Task2_StickyNotes.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\obj\Debug\Task2-StickyNotes.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\obj\Debug\Task2-StickyNotes.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\obj\Debug\Task2-StickyNotes.exe
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\obj\Debug\Task2-StickyNotes.pdb
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\obj\Debug\Task2_StickyNotes.MainForm.resources
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\obj\Debug\Task2_StickyNotes.StickyNotesControl.resources
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\obj\Debug\Task2_StickyNotes.SubForm.resources
+C:\Users\OptiCheck\Desktop\Task2-StickyNotes\Task2-StickyNotes\obj\Debug\Task2_StickyNotes.NotificationForm.resources

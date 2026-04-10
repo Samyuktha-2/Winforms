@@ -1,0 +1,12 @@
+C:\Users\OptiCheck\Desktop\PanelPractise\RatioPanel\bin\Debug\RatioPanel.exe.config
+C:\Users\OptiCheck\Desktop\PanelPractise\RatioPanel\bin\Debug\RatioPanel.exe
+C:\Users\OptiCheck\Desktop\PanelPractise\RatioPanel\bin\Debug\RatioPanel.pdb
+C:\Users\OptiCheck\Desktop\PanelPractise\RatioPanel\obj\Debug\RatioPanel.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\PanelPractise\RatioPanel\obj\Debug\RatioPanel.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\PanelPractise\RatioPanel\obj\Debug\RatioPanel.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\PanelPractise\RatioPanel\obj\Debug\RatioPanel.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\PanelPractise\RatioPanel\obj\Debug\RatioPanel.exe
+C:\Users\OptiCheck\Desktop\PanelPractise\RatioPanel\obj\Debug\RatioPanel.pdb
+C:\Users\OptiCheck\Desktop\PanelPractise\RatioPanel\obj\Debug\RatioPanel.Col.resources
+C:\Users\OptiCheck\Desktop\PanelPractise\RatioPanel\obj\Debug\RatioPanel.Row.resources
+C:\Users\OptiCheck\Desktop\PanelPractise\RatioPanel\obj\Debug\RatioPanel.RowCol.resources

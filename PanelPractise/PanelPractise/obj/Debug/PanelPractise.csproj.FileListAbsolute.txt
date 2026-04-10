@@ -1,0 +1,10 @@
+C:\Users\OptiCheck\Desktop\PanelPractise\PanelPractise\bin\Debug\PanelPractise.exe.config
+C:\Users\OptiCheck\Desktop\PanelPractise\PanelPractise\bin\Debug\PanelPractise.exe
+C:\Users\OptiCheck\Desktop\PanelPractise\PanelPractise\bin\Debug\PanelPractise.pdb
+C:\Users\OptiCheck\Desktop\PanelPractise\PanelPractise\obj\Debug\PanelPractise.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\PanelPractise\PanelPractise\obj\Debug\PanelPractise.Form1.resources
+C:\Users\OptiCheck\Desktop\PanelPractise\PanelPractise\obj\Debug\PanelPractise.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\PanelPractise\PanelPractise\obj\Debug\PanelPractise.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\PanelPractise\PanelPractise\obj\Debug\PanelPractise.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\PanelPractise\PanelPractise\obj\Debug\PanelPractise.exe
+C:\Users\OptiCheck\Desktop\PanelPractise\PanelPractise\obj\Debug\PanelPractise.pdb

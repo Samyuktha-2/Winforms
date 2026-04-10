@@ -1,0 +1,11 @@
+C:\Users\OptiCheck\Desktop\LineGame\LineGame\bin\Debug\LineGame.exe.config
+C:\Users\OptiCheck\Desktop\LineGame\LineGame\bin\Debug\LineGame.exe
+C:\Users\OptiCheck\Desktop\LineGame\LineGame\bin\Debug\LineGame.pdb
+C:\Users\OptiCheck\Desktop\LineGame\LineGame\obj\Debug\LineGame.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\LineGame\LineGame\obj\Debug\LineGame.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\LineGame\LineGame\obj\Debug\LineGame.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\LineGame\LineGame\obj\Debug\LineGame.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\LineGame\LineGame\obj\Debug\LineGame.exe
+C:\Users\OptiCheck\Desktop\LineGame\LineGame\obj\Debug\LineGame.pdb
+C:\Users\OptiCheck\Desktop\LineGame\LineGame\obj\Debug\LineGame.Lines.resources
+C:\Users\OptiCheck\Desktop\LineGame\LineGame\obj\Debug\LineGame.PanelFormation.resources
