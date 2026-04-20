@@ -12,3 +12,15 @@ C:\Users\OptiCheck\Desktop\Graphics\basicShapes\basicShapes\obj\Debug\basicShape
 C:\Users\OptiCheck\Desktop\Graphics\basicShapes\basicShapes\obj\Debug\basicShapes.drawImage.resources
 C:\Users\OptiCheck\Desktop\Graphics\basicShapes\basicShapes\obj\Debug\basicShapes.snowMan.resources
 C:\Users\OptiCheck\Desktop\Graphics\basicShapes\basicShapes\obj\Debug\basicShapes.castle.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\basicShapes\bin\Debug\basicShapes.exe.config
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\basicShapes\bin\Debug\basicShapes.exe
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\basicShapes\bin\Debug\basicShapes.pdb
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\basicShapes\obj\Debug\Graphics.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\basicShapes\obj\Debug\basicShapes.basicShapes.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\basicShapes\obj\Debug\basicShapes.drawText.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\basicShapes\obj\Debug\basicShapes.snowMan.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\basicShapes\obj\Debug\basicShapes.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\basicShapes\obj\Debug\Graphics.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\basicShapes\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\basicShapes\obj\Debug\basicShapes.exe
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\basicShapes\obj\Debug\basicShapes.pdb

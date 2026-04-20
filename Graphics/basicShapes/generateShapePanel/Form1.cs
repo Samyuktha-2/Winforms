@@ -40,7 +40,8 @@ namespace generateShapePanel
             }
 
             mainPanel.Controls.Add(l);
-
+            widthBox.Text = "";
+            heightBox.Text = "";
         }
          
     }

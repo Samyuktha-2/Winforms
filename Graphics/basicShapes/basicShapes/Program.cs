@@ -19,9 +19,8 @@ namespace basicShapes
             //Application.Run(new basicShapes());
             //Application.Run(new drawText());
             //Application.Run(new drawImage()); 
-
-            //Application.Run(new snowMan());
-            Application.Run(new castle());
+             
+            Application.Run(new snowMan());
         }
     }
 }

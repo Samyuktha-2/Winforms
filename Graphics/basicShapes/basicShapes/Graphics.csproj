@@ -52,52 +52,28 @@
     <Compile Include="basicShapes.Designer.cs">
       <DependentUpon>basicShapes.cs</DependentUpon>
     </Compile>
-    <Compile Include="castle.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="castle.Designer.cs">
-      <DependentUpon>castle.cs</DependentUpon>
-    </Compile>
-    <Compile Include="customPaintControl.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="customPaintControl.Designer.cs">
-      <DependentUpon>customPaintControl.cs</DependentUpon>
-    </Compile>
-    <Compile Include="drawImage.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="drawImage.Designer.cs">
-      <DependentUpon>drawImage.cs</DependentUpon>
-    </Compile>
     <Compile Include="drawText.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="drawText.Designer.cs">
       <DependentUpon>drawText.cs</DependentUpon>
     </Compile>
-    <Compile Include="practise.cs">
+    <Compile Include="snowMan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="practise.Designer.cs">
-      <DependentUpon>practise.cs</DependentUpon>
+    <Compile Include="snowMan.Designer.cs">
+      <DependentUpon>snowMan.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="basicShapes.resx">
       <DependentUpon>basicShapes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="castle.resx">
-      <DependentUpon>castle.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="drawImage.resx">
-      <DependentUpon>drawImage.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="drawText.resx">
       <DependentUpon>drawText.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="practise.resx">
-      <DependentUpon>practise.cs</DependentUpon>
+    <EmbeddedResource Include="snowMan.resx">
+      <DependentUpon>snowMan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

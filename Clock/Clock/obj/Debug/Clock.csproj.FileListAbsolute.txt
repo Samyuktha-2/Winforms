@@ -8,3 +8,13 @@ C:\Users\OptiCheck\Desktop\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.c
 C:\Users\OptiCheck\Desktop\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
 C:\Users\OptiCheck\Desktop\Clock\Clock\obj\Debug\Clock.exe
 C:\Users\OptiCheck\Desktop\Clock\Clock\obj\Debug\Clock.pdb
+C:\Users\OptiCheck\Desktop\WINFORMS\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\OptiCheck\Desktop\WINFORMS\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\OptiCheck\Desktop\WINFORMS\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\OptiCheck\Desktop\WINFORMS\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\Clock\Clock\obj\Debug\Clock.Form1.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\Clock\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\Clock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\OptiCheck\Desktop\WINFORMS\Clock\Clock\obj\Debug\Clock.pdb

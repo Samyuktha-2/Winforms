@@ -8,3 +8,14 @@ D:\WINFORMS\userControl\userControl\obj\Debug\userControl.csproj.CoreCompileInpu
 D:\WINFORMS\userControl\userControl\obj\Debug\userControl.exe
 D:\WINFORMS\userControl\userControl\obj\Debug\userControl.pdb
 D:\WINFORMS\userControl\userControl\obj\Debug\userControl.Form1.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\userControl\userControl\bin\Debug\userControl.exe.config
+C:\Users\OptiCheck\Desktop\WINFORMS\userControl\userControl\bin\Debug\userControl.exe
+C:\Users\OptiCheck\Desktop\WINFORMS\userControl\userControl\bin\Debug\userControl.pdb
+C:\Users\OptiCheck\Desktop\WINFORMS\userControl\userControl\obj\Debug\userControl.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\userControl\userControl\obj\Debug\userControl.Form1.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\userControl\userControl\obj\Debug\userControl.loginPanel.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\userControl\userControl\obj\Debug\userControl.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\userControl\userControl\obj\Debug\userControl.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\userControl\userControl\obj\Debug\userControl.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\userControl\userControl\obj\Debug\userControl.exe
+C:\Users\OptiCheck\Desktop\WINFORMS\userControl\userControl\obj\Debug\userControl.pdb

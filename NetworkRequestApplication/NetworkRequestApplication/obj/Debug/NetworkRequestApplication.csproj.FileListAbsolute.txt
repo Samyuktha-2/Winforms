@@ -9,3 +9,14 @@ D:\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\obj\Debug\Networ
 D:\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\obj\Debug\NetworkRequestApplication.pdb
 D:\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\obj\Debug\NetworkRequestApplication.LogIn.resources
 D:\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\obj\Debug\NetworkRequestApplication.MainPage.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\bin\Debug\NetworkRequestApplication.exe.config
+C:\Users\OptiCheck\Desktop\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\bin\Debug\NetworkRequestApplication.exe
+C:\Users\OptiCheck\Desktop\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\bin\Debug\NetworkRequestApplication.pdb
+C:\Users\OptiCheck\Desktop\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\obj\Debug\NetworkRequestApplication.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\obj\Debug\NetworkRequestApplication.LogIn.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\obj\Debug\NetworkRequestApplication.MainPage.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\obj\Debug\NetworkRequestApplication.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\obj\Debug\NetworkRequestApplication.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\obj\Debug\NetworkRequestApplication.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\obj\Debug\NetworkRequestApplication.exe
+C:\Users\OptiCheck\Desktop\WINFORMS\NetworkRequestApplication\NetworkRequestApplication\obj\Debug\NetworkRequestApplication.pdb

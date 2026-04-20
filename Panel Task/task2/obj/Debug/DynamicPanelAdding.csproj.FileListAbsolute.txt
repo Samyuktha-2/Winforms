@@ -7,3 +7,4 @@ C:\Users\OptiCheck\Desktop\WINFORMS\Panel Task\task2\obj\Debug\DynamicPanelAddin
 C:\Users\OptiCheck\Desktop\WINFORMS\Panel Task\task2\obj\Debug\DynamicPanelAdding.csproj.CoreCompileInputs.cache
 C:\Users\OptiCheck\Desktop\WINFORMS\Panel Task\task2\obj\Debug\task2.exe
 C:\Users\OptiCheck\Desktop\WINFORMS\Panel Task\task2\obj\Debug\task2.pdb
+C:\Users\OptiCheck\Desktop\WINFORMS\Panel Task\task2\obj\Debug\DynamicPanelAdding.csprojAssemblyReference.cache

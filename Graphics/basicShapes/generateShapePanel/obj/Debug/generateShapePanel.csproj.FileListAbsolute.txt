@@ -7,3 +7,13 @@ C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateShapePanel\bin\Debug\gen
 C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateShapePanel\bin\Debug\generateShapePanel.pdb
 C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateShapePanel\obj\Debug\generateShapePanel.exe
 C:\Users\OptiCheck\Desktop\Graphics\basicShapes\generateShapePanel\obj\Debug\generateShapePanel.pdb
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\generateShapePanel\bin\Debug\generateShapePanel.exe.config
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\generateShapePanel\bin\Debug\generateShapePanel.exe
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\generateShapePanel\bin\Debug\generateShapePanel.pdb
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\generateShapePanel\obj\Debug\generateShapePanel.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\generateShapePanel\obj\Debug\generateShapePanel.Form1.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\generateShapePanel\obj\Debug\generateShapePanel.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\generateShapePanel\obj\Debug\generateShapePanel.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\generateShapePanel\obj\Debug\generateShapePanel.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\generateShapePanel\obj\Debug\generateShapePanel.exe
+C:\Users\OptiCheck\Desktop\WINFORMS\Graphics\basicShapes\generateShapePanel\obj\Debug\generateShapePanel.pdb

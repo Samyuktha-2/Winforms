@@ -10,3 +10,15 @@ D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.exe
 D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.pdb
 D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.Form1.resources
 D:\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.FeedBackForm.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\HardCode\HardCode\bin\Debug\HardCode.exe.config
+C:\Users\OptiCheck\Desktop\WINFORMS\HardCode\HardCode\bin\Debug\HardCode.exe
+C:\Users\OptiCheck\Desktop\WINFORMS\HardCode\HardCode\bin\Debug\HardCode.pdb
+C:\Users\OptiCheck\Desktop\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.FeedBackForm.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.Form1.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.Form2.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.exe
+C:\Users\OptiCheck\Desktop\WINFORMS\HardCode\HardCode\obj\Debug\HardCode.pdb

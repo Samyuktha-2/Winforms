@@ -100,15 +100,13 @@ namespace ToggleWidget
             }
 
             GraphicsPath path = new GraphicsPath();
+
             path.AddArc(rect.X, rect.Y, diameter, diameter, 180, 90);
             path.AddArc(rect.Right - diameter, rect.Y, diameter, diameter, 270, 90);
             path.AddArc(rect.Right - diameter, rect.Bottom - diameter, diameter, diameter, 0, 90);
             path.AddArc(rect.X, rect.Bottom - diameter, diameter, diameter, 90, 90);
 
-            //path.AddArc(rect.X, rect.Y, rect.Width/2, diameter, 90, 180);
-            //path.AddArc(rect.Width/2, rect.Y , rect.Width/2, diameter, 270, 180);
-            //path.CloseFigure();
-
+            path.CloseFigure();
             return path;
         }
          
@@ -116,7 +114,7 @@ namespace ToggleWidget
         protected override void OnClick(EventArgs e)
         {
             base.OnClick(e);
-            isOn = !isOn;                   
+            Checked = !Checked;                   
         }
 
         private void TriggerTimer()
@@ -143,7 +141,7 @@ namespace ToggleWidget
                 currentKnobX = targetKnobX;
                 timer.Stop();
             }
-            Invalidate();
+            this.Invalidate();
         }
     }
 }
