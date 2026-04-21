@@ -53,7 +53,7 @@ namespace SenderApp
             // Resize safely
             Bitmap smallFrame = new Bitmap(frame, new Size(160, 120));
 
-            // UI update safely
+            //// UI update safely
             Invoke(new Action(() =>
             {
                 if (pictureBox1.Image != null)
@@ -75,6 +75,42 @@ namespace SenderApp
             // Clean up
             frame.Dispose();
             smallFrame.Dispose();
+        }
+
+        private void endBtn_Click(object sender, EventArgs e)
+        {
+
+            try
+            {
+                // ✅ Stop camera safely
+                if (videoSource != null && videoSource.IsRunning)
+                {
+                    videoSource.NewFrame -= VideoSource_NewFrame; // detach event
+                    videoSource.SignalToStop();
+                    videoSource.WaitForStop();
+                    videoSource = null;
+                }
+
+                // ✅ Close UDP
+                if (udp != null)
+                {
+                    udp.Close();
+                    udp = null;
+                }
+
+                // ✅ Clear UI (optional)
+                if (pictureBox1.Image != null)
+                {
+                    pictureBox1.Image.Dispose();
+                    pictureBox1.Image = null;
+                }
+
+                MessageBox.Show("Streaming stopped");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error stopping: " + ex.Message);
+            }
         }
     }
 }

@@ -13,6 +13,8 @@ namespace Reciever
 
         UdpClient udp;
         Thread receiveThread;
+        DateTime lastReceivedTime = DateTime.Now;
+        bool isStreaming = false;
 
         public Form1()
         {
@@ -23,7 +25,10 @@ namespace Reciever
         {
             MessageBox.Show("Receiver started...");
             StartReceiver();
-            
+
+            Thread monitorThread = new Thread(MonitorStream);
+            monitorThread.IsBackground = true;
+            monitorThread.Start();
         }
 
         private void StartReceiver()
@@ -35,6 +40,30 @@ namespace Reciever
             receiveThread.Start();
         }
 
+        private void MonitorStream()
+        {
+            while (true)
+            {
+                Thread.Sleep(1000); // check every 1 sec
+
+                if (isStreaming && (DateTime.Now - lastReceivedTime).TotalSeconds > 3)
+                {
+                    isStreaming = false;
+
+                    BeginInvoke(new Action(() =>
+                    {
+                        if (pictureBox1.Image != null)
+                        {
+                            pictureBox1.Image.Dispose();
+                            pictureBox1.Image = null;
+                        }
+
+                        MessageBox.Show("Streaming has been stopped");
+                    }));
+                }
+            }
+        }
+
         private void ReceiveData()
         {
             IPEndPoint ep = new IPEndPoint(IPAddress.Any, 0);
@@ -43,27 +72,28 @@ namespace Reciever
             {
                 try
                 {
-                    
                     byte[] data = udp.Receive(ref ep);
 
-                    // Debug: check size
+                    lastReceivedTime = DateTime.Now;
+                    isStreaming = true;
+
                     Console.WriteLine($"Received: {data.Length} bytes");
 
                     using (MemoryStream ms = new MemoryStream(data))
                     {
                         Image img = Image.FromStream(ms);
 
-                        // 🔥 UI thread safe update
-                        Invoke(new Action(() =>
+                        if (pictureBox1.IsHandleCreated)
                         {
-                            // Dispose old image to prevent memory leak
-                            if (pictureBox1.Image != null)
-                                pictureBox1.Image.Dispose();
+                            BeginInvoke(new Action(() =>
+                            {
+                                if (pictureBox1.Image != null)
+                                    pictureBox1.Image.Dispose();
 
-                            pictureBox1.Image = new Bitmap(img);
-                        }));
+                                pictureBox1.Image = new Bitmap(img);
+                            }));
+                        }
                     }
-                     
                 }
                 catch (Exception ex)
                 {
