@@ -25,7 +25,7 @@ namespace BackgroundWorker
                     return;
                 }
                 Thread.Sleep(1000);
-                backgroundWorker1.ReportProgress(i);
+                backgroundWorker1.ReportProgress(i);  //send progress
             }
         }
 
@@ -43,12 +43,13 @@ namespace BackgroundWorker
         {
             progressBar1.Value = e.ProgressPercentage;
         }
-        private void button1_Click(object sender, EventArgs e)
+
+        private void StartTask(object sender, EventArgs e)
         {
-            backgroundWorker1.RunWorkerAsync();
+            backgroundWorker1.RunWorkerAsync();  //start background task
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void CancelTask(object sender, EventArgs e)
         {
             backgroundWorker1.CancelAsync();
         }

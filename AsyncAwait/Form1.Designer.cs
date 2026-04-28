@@ -39,6 +39,8 @@
             this.StartButton = new System.Windows.Forms.Button();
             this.CancelButton = new System.Windows.Forms.Button();
             this.progressBar2 = new System.Windows.Forms.ProgressBar();
+            this.BtnStart = new System.Windows.Forms.Button();
+            this.label4 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -145,11 +147,32 @@
             this.progressBar2.Size = new System.Drawing.Size(416, 10);
             this.progressBar2.TabIndex = 5;
             // 
+            // BtnStart
+            // 
+            this.BtnStart.Location = new System.Drawing.Point(571, 89);
+            this.BtnStart.Name = "BtnStart";
+            this.BtnStart.Size = new System.Drawing.Size(75, 23);
+            this.BtnStart.TabIndex = 6;
+            this.BtnStart.Text = "Start ";
+            this.BtnStart.UseVisualStyleBackColor = true;
+            this.BtnStart.Click += new System.EventHandler(this.BtnStart_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(633, 128);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(35, 13);
+            this.label4.TabIndex = 7;
+            this.label4.Text = "label4";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.BtnStart);
             this.Controls.Add(this.progressBar2);
             this.Controls.Add(this.CancelButton);
             this.Controls.Add(this.StartButton);
@@ -181,6 +204,8 @@
         private System.Windows.Forms.Button StartButton;
         private System.Windows.Forms.Button CancelButton;
         private System.Windows.Forms.ProgressBar progressBar2;
+        private System.Windows.Forms.Button BtnStart;
+        private System.Windows.Forms.Label label4;
     }
 }
 

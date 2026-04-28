@@ -114,5 +114,25 @@ namespace AsyncAwait
                 cts.Cancel();
             }
         }
+
+        private async void BtnStart_Click(object sender, EventArgs e)
+        {
+            label4.Text = "started";
+
+            await Task.Run(() =>
+            {
+                Thread.Sleep(5000);
+                return "Task Finished";
+            })
+            .ContinueWith(t =>
+            {
+                this.Invoke(new Action(() =>
+                {
+                    label4.Text = t.Result;
+                }));
+            });
+
+            
+        }
     }
 }
