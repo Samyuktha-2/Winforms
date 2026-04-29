@@ -131,8 +131,6 @@ namespace AsyncAwait
                     label4.Text = t.Result;
                 }));
             });
-
-            
         }
     }
 }
