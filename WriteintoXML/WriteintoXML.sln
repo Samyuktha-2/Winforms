@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.36617.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteintoXML", "WriteintoXML\WriteintoXML.csproj", "{E5C76F91-3BD9-4ACD-BE1F-652AAFE7D9AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5C76F91-3BD9-4ACD-BE1F-652AAFE7D9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C76F91-3BD9-4ACD-BE1F-652AAFE7D9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C76F91-3BD9-4ACD-BE1F-652AAFE7D9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C76F91-3BD9-4ACD-BE1F-652AAFE7D9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0BE89C4-02FD-4EAE-9320-B98199650373}
+	EndGlobalSection
+EndGlobal
