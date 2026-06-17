@@ -1,0 +1,10 @@
+C:\Users\OptiCheck\Desktop\ThemeChange\ThemeChange\bin\Debug\ThemeChange.exe.config
+C:\Users\OptiCheck\Desktop\ThemeChange\ThemeChange\bin\Debug\ThemeChange.exe
+C:\Users\OptiCheck\Desktop\ThemeChange\ThemeChange\bin\Debug\ThemeChange.pdb
+C:\Users\OptiCheck\Desktop\ThemeChange\ThemeChange\obj\Debug\ThemeChange.csprojAssemblyReference.cache
+C:\Users\OptiCheck\Desktop\ThemeChange\ThemeChange\obj\Debug\ThemeChange.Form1.resources
+C:\Users\OptiCheck\Desktop\ThemeChange\ThemeChange\obj\Debug\ThemeChange.Properties.Resources.resources
+C:\Users\OptiCheck\Desktop\ThemeChange\ThemeChange\obj\Debug\ThemeChange.csproj.GenerateResource.cache
+C:\Users\OptiCheck\Desktop\ThemeChange\ThemeChange\obj\Debug\ThemeChange.csproj.CoreCompileInputs.cache
+C:\Users\OptiCheck\Desktop\ThemeChange\ThemeChange\obj\Debug\ThemeChange.exe
+C:\Users\OptiCheck\Desktop\ThemeChange\ThemeChange\obj\Debug\ThemeChange.pdb
